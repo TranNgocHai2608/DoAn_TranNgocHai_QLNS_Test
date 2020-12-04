@@ -38,7 +38,7 @@ public class tinhbieuthuc extends JFrame {
 	}
 
 	/**
-	 * Create the frame.
+	 * fffCreate the frame.
 	 */
 	public tinhbieuthuc() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
